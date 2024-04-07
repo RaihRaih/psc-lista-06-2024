@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Vetor5num {
 
   public static void main(String[] args) {
-    int num[]; // Declaração do vetor
+    int[] num; // Declaração do vetor
     Scanner scanner = new Scanner(System.in);
 
     num = new int[5]; // Inicializar vetor
