@@ -6,7 +6,7 @@ public class QuatroNotas {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
-    double notas[];
+    double[] notas;
     notas = new double[4];
 
     for (int i = 0; i < notas.length; i++) {
