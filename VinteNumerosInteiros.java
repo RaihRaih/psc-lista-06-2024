@@ -9,7 +9,7 @@ public class VinteNumerosInteiros {
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
-    int vetor[];
+    int[] vetor;
     vetor = new int[20];
     int impar = 0;
     int par = 0;
